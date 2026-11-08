@@ -1,0 +1,7 @@
+jsonschema>=4.26
+openai>=1.60
+python-dotenv>=1.0
+# Séance 4 - analyse
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.5
